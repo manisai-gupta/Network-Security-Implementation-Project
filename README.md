@@ -1,1 +1,2 @@
 # Network-Security-Implementation-Project
+I have completed several labs and a project focused on networks, firewalls, and VPNs. Although I couldn't share links to my work, I do have snippets from each lab that showcase my efforts. These snippets highlight my journey through the complexities of network security and reflect the skills I've developed along the way. Each lab represents a significant step in understanding cybersecurity, while my project serves as a culmination of everything I've learned, demonstrating my ability to apply this knowledge in practical scenarios.
